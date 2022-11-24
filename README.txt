@@ -1,31 +1,17 @@
-Paradigm Shift by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+About Me:
+I’ve always been fascinated by numbers, and working in data analytics has been a long-term goal of mine. My career has taught me to think strategically about problems and identify solutions.
 
+As much as I’m into data manipulation, it’s the analysis of data that really gets me going. I like to explore the relationships between numbers, and translate digits and spreadsheets into stories. In the age of big data, these stories become actionable solutions and strategies for businesses, and I take pride in my ability to make data accessible to both executive decision-makers and frontline sales staff. 
 
-Say hello to Paradigm Shift, my first addition to HTML5 UP in more than a year (!!!).
-Took things in a slightly different direction with this one, partly to mess with CSS
-grid (which this one relies on pretty heavily) but mostly to get back to making weirder
-and more experimental designs/layouts. Anyway, hope you dig it, and thanks for the
-continued support despite the lack of updates :)
+I have a B.A. in Business Management Specialization in Finance from The Max Stern Jezreel Valley College with a Certificate of Data Analyst.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Skills: 
+* Excel (KPI, Power Pivot, Power Query, Data Structure).
+* Database Programming and SQL & Python.
+* BI Tools and System Design (Tableau, Power BI).
 
-(* = not included)
+On a personal level, I am detail-oriented, organized, and precise in my work; . I have strong communication skills with a knack for clear and illuminating presentation. I’m comfortable on my own facing the numbers, but I really enjoy being part of a motivated team of smart people.
 
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+I'm always looking to grow my personal and professional network.
+Feel free to connect via LinkedIn or at:
+yardenrrozen@gmail.com
